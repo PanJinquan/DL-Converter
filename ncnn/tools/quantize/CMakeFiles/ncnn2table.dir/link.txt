@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/ncnn2table.dir/ncnn2table.cpp.o  -o ncnn2table -Wl,-rpath,/usr/local/lib ../../src/libncnn.a /usr/local/lib/libopencv_highgui.so.4.3.0 -lgomp -lpthread /usr/local/lib/libopencv_videoio.so.4.3.0 /usr/local/lib/libopencv_imgcodecs.so.4.3.0 /usr/local/lib/libopencv_imgproc.so.4.3.0 /usr/local/lib/libopencv_core.so.4.3.0 
